@@ -139,7 +139,7 @@ var fingerToDrumMap = {
 };
 // --- Exported Functions ---
 /**
- * Loads all drum samples and returns a promise that resolves when loading is complete.
+ * Loads all drum samples and returns a promise that resolves when loading is complete
  */ export function loadSamples() {
     return new Promise(function(resolve, reject) {
         if (isLoaded) {
