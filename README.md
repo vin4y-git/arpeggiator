@@ -9,6 +9,8 @@ An interactive web app built with threejs, mediapipe computer vision, rosebud AI
 
 [Video](https://x.com/measure_plan/status/1934618478524199126) | [Live Demo](https://collidingscopes.github.io/arpeggiator/)
 
+<img src="assets/demo.png">
+
 ## Requirements
 
 - Modern web browser with WebGL support
