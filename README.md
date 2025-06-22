@@ -7,7 +7,7 @@ An interactive web app built with threejs, mediapipe computer vision, rosebud AI
 - Hand #1 controls the arpeggios (raise hand to raise pitch, pinch to change volume)
 - Hand #2 controls the drums (raise different fingers to change the pattern)
 
-[Video](https://x.com/measure_plan/status/1934618478524199126) | [Live Demo](https://collidingscopes.github.io/arpeggiator/)
+[Video](https://youtu.be/JepIs-DTBgk?si=4Y-FrQDF6KNy662C) | [Live Demo](https://collidingscopes.github.io/arpeggiator/) | [More Code & Tutorials](https://funwithcomputervision.com/)
 
 <img src="assets/demo.png">
 
@@ -52,12 +52,16 @@ MIT License
 
 ## Related Projects
 
+I've released several computer vision projects (with code + tutorials) here:
+[Fun With Computer Vision](https://www.funwithcomputervision.com/)
+
+You can purchase lifetime access and receive the full project files and tutorials. I'm adding more content regularly 🪬
+
 You might also like some of my other open source projects:
 
 - [3D Model Playground](https://collidingScopes.github.io/3d-model-playground) - control 3D models with voice and hand gestures
 - [Threejs hand tracking tutorial](https://collidingScopes.github.io/threejs-handtracking-101) - Basic hand tracking setup with threejs and MediaPipe computer vision
 - [Particular Drift](https://collidingScopes.github.io/particular-drift) - Turn photos into flowing particle animations
-- [Liquid Logo](https://collidingScopes.github.io/liquid-logo) - Transform logos and icons into liquid metal animations
 - [Video-to-ASCII](https://collidingScopes.github.io/ascii) - Convert videos into ASCII pixel art
 
 ## Contact
